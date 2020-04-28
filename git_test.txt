@@ -1,0 +1,1 @@
+This is just a simple txt file to practice with git push and pull.
