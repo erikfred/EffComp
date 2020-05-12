@@ -1,0 +1,26 @@
+"""
+This is a test file that I plan to move to the remote machine. I will also use it to 
+practice my vi editing.
+"""
+
+Here is a pointless sentence that maybe I can move or remove later.
+
+I'm going to write something longer now. It will extend multiple lines, if I can 
+come up with enough material. I am trying to manually force a right margin so that 
+my text doesn't run to long off to the side. It's a bit hard because there are no 
+guides. So I suspect that after a while of doing this there will be some drift to 
+it.
+
+# Here we have a comment over some fake code
+if var1==6
+    do thing
+elseif var1>6
+    do other thing
+end
+
+# The above is written in Matlab syntax. I can't remember how Python syntax works - 
+# probably something good to refresh on. Note that I needed a second '#' to continue
+# this train of thought. Now a third.
+
+This file now seems long enough to play with, but still small enough to quickly move
+with scp. Why did I not comment this part? No one knows.
